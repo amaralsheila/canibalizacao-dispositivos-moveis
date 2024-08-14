@@ -4,18 +4,18 @@
 
 ## Instruções gerais
 
-    O presente repositório e seu conteúdo é de caráter pessoal e privado, não podendo ser compartilhado pelo candidato por quaisquer meios.
-    A solução do exercício deverá ser elaborada única e exclusivamente pelo candidato, sem ajuda pessoal externa. Obviamente, não há problemas em caso de consultas em livros ou meios eletrônicos (não é permitida a submissão das questões deste teste em fóruns e comunidades online).
-    O exercício em questão é fictício e não é parte de qualquer projeto real desenvolvido ou em desenvolvimento pela Kognita Lab.
-    O exercício tem caráter classificatório, e não eliminatório. Portanto, caso tenha algum problema e não consiga resolver todo o exercício, envie a solução até onde conseguiu evoluir.
-    A solução deverá ser entregue num repositório à parte, criado pelo candidato.
-    Linguagem: Python.
-    O prazo para entrega do exercício é de 1 semana.
+* O presente repositório e seu conteúdo é de caráter pessoal e privado, não podendo ser compartilhado pelo candidato por quaisquer meios.
+* A solução do exercício deverá ser elaborada única e exclusivamente pelo candidato, sem ajuda pessoal externa. Obviamente, não há problemas em caso de consultas em livros ou meios eletrônicos (não é permitida a submissão das questões deste teste em fóruns e comunidades online).
+* O exercício em questão é fictício e não é parte de qualquer projeto real desenvolvido ou em desenvolvimento pela Kognita Lab.
+* O exercício tem caráter classificatório, e não eliminatório. Portanto, caso tenha algum problema e não consiga resolver todo o exercício, envie a solução até onde conseguiu evoluir.
+* A solução deverá ser entregue num repositório à parte, criado pelo candidato.
+* Linguagem: Python.
+* O prazo para entrega do exercício é de 1 semana.
 
 ## Dados disponibilizados:
 
-    "_data/footprint.parquet": dados anonimizados de eventos (coordenadas geográficas no tempo) associados a dispositivos móveis para o período de 1 semana.
-    "_data/estabelecimentos.parquet": dataset contendo as unidades geolocalizadas.
+* "_data/footprint.parquet": dados anonimizados de eventos (coordenadas geográficas no tempo) associados a dispositivos móveis para o período de 1 semana.
+* "_data/estabelecimentos.parquet": dataset contendo as unidades geolocalizadas.
 
 Por meio da coluna "id_unidade" é possível associar ambas as bases de dados para as análises.
 
@@ -31,6 +31,6 @@ Ps.: "modelo" no contexto do exercício não necessariamente significa modelo de
 
 ## Requisitos da entrega
 
-    Repositório organizado com as melhores práticas que conhecer.
-    Slides apresentando a construção conceitual do modelo e os resultados obtidos.
-    Após a entrega, será agendada uma reunião para apresentação e discussão dos resultados.
+* Repositório organizado com as melhores práticas que conhecer.
+* Slides apresentando a construção conceitual do modelo e os resultados obtidos.
+* Após a entrega, será agendada uma reunião para apresentação e discussão dos resultados.
